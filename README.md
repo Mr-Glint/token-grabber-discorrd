@@ -49,3 +49,4 @@ Keeping a sanitized copy allows defenders to:
 This repository contains **malicious code for analysis purposes only**. Downloading, executing,
 or modifying this sample for any reason other than defensive research is strongly discouraged and
 may be illegal in your jurisdiction. You are solely responsible for lawful use.
+A
